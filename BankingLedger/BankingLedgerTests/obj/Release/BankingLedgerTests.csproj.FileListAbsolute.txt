@@ -1,0 +1,17 @@
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\obj\Release\BankingLedgerTests.csprojResolveAssemblyReference.cache
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\obj\Release\BankingLedgerTests.csproj.CoreCompileInputs.cache
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\obj\Release\AltSourceCodeSample-AlexGTests.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\obj\Release\AltSourceCodeSample-AlexGTests.pdb
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\AltSourceCodeSample-AlexGTests.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\AltSourceCodeSample-AlexGTests.pdb
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\AltSourceCodeSample-AlexG.exe
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Liphsoft.Crypto.Argon2.dll
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\AltSourceCodeSample-AlexG.pdb
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\AltSourceCodeSample-AlexG.exe.config
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexGTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

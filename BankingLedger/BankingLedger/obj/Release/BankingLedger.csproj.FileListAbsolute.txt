@@ -1,0 +1,8 @@
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Release\BankingLedger.csprojResolveAssemblyReference.cache
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Release\BankingLedger.csproj.CoreCompileInputs.cache
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Release\AltSourceCodeSample-AlexG.exe
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Release\AltSourceCodeSample-AlexG.pdb
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.exe.config
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.exe
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.pdb
+C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\Liphsoft.Crypto.Argon2.dll
