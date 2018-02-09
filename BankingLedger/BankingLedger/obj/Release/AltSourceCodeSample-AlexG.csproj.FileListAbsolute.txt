@@ -1,7 +1,0 @@
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.exe.config
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.exe
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.pdb
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\bin\Release\Liphsoft.Crypto.Argon2.dll
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\obj\Release\AltSourceCodeSample-AlexG.csproj.CoreCompileInputs.cache
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\obj\Release\AltSourceCodeSample-AlexG.exe
-C:\Users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexG\obj\Release\AltSourceCodeSample-AlexG.pdb
