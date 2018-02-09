@@ -6,3 +6,11 @@ C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.exe
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\AltSourceCodeSample-AlexG.pdb
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Release\Liphsoft.Crypto.Argon2.dll
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Release\BankingLedger.exe.config
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Release\BankingLedger.exe
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Release\BankingLedger.pdb
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Release\Liphsoft.Crypto.Argon2.dll
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Release\BankingLedger.csprojResolveAssemblyReference.cache
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Release\BankingLedger.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Release\BankingLedger.exe
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Release\BankingLedger.pdb
