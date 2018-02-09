@@ -1,0 +1,17 @@
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\AltSourceCodeSample-AlexGTests.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\AltSourceCodeSample-AlexGTests.pdb
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\AltSourceCodeSample-AlexG.exe
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Liphsoft.Crypto.Argon2.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\AltSourceCodeSample-AlexG.pdb
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\AltSourceCodeSample-AlexG.exe.config
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\obj\Debug\AltSourceCodeSample-AlexGTests.csprojResolveAssemblyReference.cache
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\obj\Debug\AltSourceCodeSample-AlexGTests.csproj.CoreCompileInputs.cache
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\obj\Debug\AltSourceCodeSample-AlexGTests.dll
+c:\users\cerva\Source\Repos\AltSourceCodeSample-AlexG\AltSourceCodeSample-AlexGTests\obj\Debug\AltSourceCodeSample-AlexGTests.pdb
