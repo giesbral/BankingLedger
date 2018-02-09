@@ -5,3 +5,10 @@ C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\bin\Debug\Li
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Debug\BankingLedger.csproj.CoreCompileInputs.cache
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Debug\AltSourceCodeSample-AlexG.exe
 C:\Users\cerva\Source\Repos\BankingLedger\AltSourceCodeSample-AlexG\obj\Debug\AltSourceCodeSample-AlexG.pdb
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Debug\BankingLedger.exe.config
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Debug\BankingLedger.exe
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Debug\BankingLedger.pdb
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\bin\Debug\Liphsoft.Crypto.Argon2.dll
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Debug\BankingLedger.csproj.CoreCompileInputs.cache
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Debug\BankingLedger.exe
+D:\GitHub\Repositories\BankingLedger\BankingLedger\BankingLedger\obj\Debug\BankingLedger.pdb

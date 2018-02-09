@@ -6,13 +6,14 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8BD8197C-A1DA-4138-A199-494B770B9879}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AltSourceCodeSample_AlexG</RootNamespace>
-    <AssemblyName>AltSourceCodeSample-AlexG</AssemblyName>
+    <RootNamespace>BankingLedger</RootNamespace>
+    <AssemblyName>BankingLedger</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -25,7 +26,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
